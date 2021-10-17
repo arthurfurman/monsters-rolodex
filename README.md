@@ -1,4 +1,4 @@
 # monsters-rolodex
-My first React project.
+My first React.js project.
 
-website available at: https://arthurfurman.github.io/monsters-rolodex/
+Website available at: https://arthurfurman.github.io/monsters-rolodex/
